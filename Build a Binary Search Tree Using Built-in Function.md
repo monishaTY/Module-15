@@ -13,12 +13,9 @@ To write a Python program to build a binary search tree using a built-in functio
 6. Print the postorder traversal of the BST.
 7. Call `left_subtree(l)` to print the left subtree.
 8. Check whether the tree is a binary search tree using the `is_bst` property.
-9. **End the program.**
-
+9. End the program.
 ---
-
 ## PROGRAM:
-
 ```
 ENTER YOUR CODE
 #Reg.NO-212223060119
